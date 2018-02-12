@@ -1,5 +1,9 @@
 # D3jsTemplate
-if using d3.csv,d3.json method in local, it have a problem Cross Origin.... so we solve problem using webpack server 
+if using d3.csv(),d3.json() method in local, it have a problem 
+
+"Failed to load file:///D:/sales.csv: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https." Cross Origin....
+
+so I solve problem using webpack server.
 
 1. npm install 
 
